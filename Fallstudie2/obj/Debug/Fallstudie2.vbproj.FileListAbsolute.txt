@@ -1,0 +1,12 @@
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\bin\Debug\Fallstudie2.exe.config
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\bin\Debug\Fallstudie2.exe
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\bin\Debug\Fallstudie2.pdb
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\bin\Debug\Fallstudie2.xml
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.Form1.resources
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.Resources.resources
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.vbproj.GenerateResource.cache
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.vbproj.CoreCompileInputs.cache
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.exe
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.xml
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.pdb
+C:\Users\mklug\OneDrive\Programmierung\VisualBasic\Fallstudie2\Fallstudie2\obj\Debug\Fallstudie2.vbprojAssemblyReference.cache
